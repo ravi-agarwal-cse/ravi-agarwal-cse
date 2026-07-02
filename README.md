@@ -33,9 +33,9 @@ I am a Computer Science and Engineering student. I am passionate about learning 
 
 ### 🚀 What I'm Currently Working On
 
-#### 🏢 Hostel Management System (Learning Project / In Progress)
-I am currently applying my full-stack development studies by building a hostel administration system from scratch. 
-- **Planned Features:** Secure student registration, automated fee management, and dedicated warden operation controls.
+#### 🏢 Library Management System (Learning Project / In Progress)
+I am currently applying my full-stack development studies by building a complete library system from scratch. 
+- **Planned Features:** Secure student registration, book management, and dedicated student operation controls.
 - **Focus:** Transitioning from theory to practical application by designing a role-based architecture and learning how different backend and frontend modules connect.
 
 ---
